@@ -1,0 +1,4 @@
+zap
+bin/*
+bin/
+zap.tmp*
